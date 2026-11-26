@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 22,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day22-line001.mp3",
+   "sentence_id": "b2-day22-s01",
+   "en": "It is often said that when the rich world catches a cold, the poor world gets pneumonia.",
+   "bytes": 49152
+  },
+  {
+   "line": 2,
+   "file": "day22-line002.mp3",
+   "sentence_id": "b2-day22-s02",
+   "en": "What worries economists is not the debt itself, but the speed at which it is growing.",
+   "bytes": 50304
+  },
+  {
+   "line": 3,
+   "file": "day22-line003.mp3",
+   "sentence_id": "b2-day22-s03",
+   "en": "Not until prices began to fall did families feel any relief from the crisis.",
+   "bytes": 48384
+  },
+  {
+   "line": 4,
+   "file": "day22-line004.mp3",
+   "sentence_id": "b2-day22-s04",
+   "en": "However strong a currency may seem, it rests on nothing but the trust of those who use it.",
+   "bytes": 52416
+  },
+  {
+   "line": 5,
+   "file": "day22-line005.mp3",
+   "sentence_id": "b2-day22-s05",
+   "en": "The price of bread is said to affect political stability more than any election speech.",
+   "bytes": 50688
+  },
+  {
+   "line": 6,
+   "file": "day22-line006.mp3",
+   "sentence_id": "b2-day22-s06",
+   "en": "Were trade between countries to stop tomorrow, the shelves of our shops would empty within weeks.",
+   "bytes": 55488
+  },
+  {
+   "line": 7,
+   "file": "day22-line007.mp3",
+   "sentence_id": "b2-day22-s07",
+   "en": "It is not wealth that makes a country stable, but the fairness with which that wealth is shared.",
+   "bytes": 55296
+  },
+  {
+   "line": 8,
+   "file": "day22-line008.mp3",
+   "sentence_id": "b2-day22-s08",
+   "en": "Little attention is paid to small businesses, even though they employ most of the country.",
+   "bytes": 43968
+  },
+  {
+   "line": 9,
+   "file": "day22-line009.mp3",
+   "sentence_id": "b2-day22-s09",
+   "en": "What history shows is that every economic crisis eventually ends, though not everyone recovers equally.",
+   "bytes": 69888
+  },
+  {
+   "line": 10,
+   "file": "day22-line010.mp3",
+   "sentence_id": "b2-day22-s10",
+   "en": "Rarely do economists agree on anything, yet they all warn against ignoring inflation.",
+   "bytes": 57792
+  },
+  {
+   "line": 11,
+   "file": "day22-line011.mp3",
+   "sentence_id": "b2-day22-s11",
+   "en": "What the crisis exposed was how dependent the whole economy had become on a single source of income.",
+   "bytes": 63552
+  },
+  {
+   "line": 12,
+   "file": "day22-line012.mp3",
+   "sentence_id": "b2-day22-s12",
+   "en": "It is when people lose trust in their currency that saving becomes impossible for ordinary families.",
+   "bytes": 60672
+  },
+  {
+   "line": 13,
+   "file": "day22-line013.mp3",
+   "sentence_id": "b2-day22-s13",
+   "en": "Only when exports began to rise did the government speak openly about the depth of the problem.",
+   "bytes": 60480
+  },
+  {
+   "line": 14,
+   "file": "day22-line014.mp3",
+   "sentence_id": "b2-day22-s14",
+   "en": "Were interest rates to rise again this year, many small businesses would close their doors for good.",
+   "bytes": 58176
+  },
+  {
+   "line": 15,
+   "file": "day22-line015.mp3",
+   "sentence_id": "b2-day22-s15",
+   "en": "It is not the size of an economy that determines its strength, but its ability to adapt to shocks.",
+   "bytes": 61056
+  }
+ ]
+}
