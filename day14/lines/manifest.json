@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 14,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day14-line001.mp3",
+   "sentence_id": "b2-day14-s01",
+   "en": "It is believed that the pyramids were built by paid workers rather than slaves.",
+   "bytes": 42816
+  },
+  {
+   "line": 2,
+   "file": "day14-line002.mp3",
+   "sentence_id": "b2-day14-s02",
+   "en": "What amazes visitors is not only the size of the temples, but the precision with which they were built.",
+   "bytes": 56256
+  },
+  {
+   "line": 3,
+   "file": "day14-line003.mp3",
+   "sentence_id": "b2-day14-s03",
+   "en": "Not until the nineteenth century was the ancient writing finally understood.",
+   "bytes": 48576
+  },
+  {
+   "line": 4,
+   "file": "day14-line004.mp3",
+   "sentence_id": "b2-day14-s04",
+   "en": "However old a civilization may be, its lessons still speak to us today.",
+   "bytes": 46080
+  },
+  {
+   "line": 5,
+   "file": "day14-line005.mp3",
+   "sentence_id": "b2-day14-s05",
+   "en": "The statue is said to have survived earthquakes, floods and centuries of neglect.",
+   "bytes": 51264
+  },
+  {
+   "line": 6,
+   "file": "day14-line006.mp3",
+   "sentence_id": "b2-day14-s06",
+   "en": "Were these monuments to be destroyed, no money in the world could ever rebuild them.",
+   "bytes": 48576
+  },
+  {
+   "line": 7,
+   "file": "day14-line007.mp3",
+   "sentence_id": "b2-day14-s07",
+   "en": "It was the discovery of the Rosetta Stone that opened the door to understanding hieroglyphs.",
+   "bytes": 50880
+  },
+  {
+   "line": 8,
+   "file": "day14-line008.mp3",
+   "sentence_id": "b2-day14-s08",
+   "en": "Little do visitors realize that many treasures were taken abroad during the colonial period.",
+   "bytes": 57792
+  },
+  {
+   "line": 9,
+   "file": "day14-line009.mp3",
+   "sentence_id": "b2-day14-s09",
+   "en": "What a nation preserves of its past tells you a great deal about how it sees its future.",
+   "bytes": 53952
+  },
+  {
+   "line": 10,
+   "file": "day14-line010.mp3",
+   "sentence_id": "b2-day14-s10",
+   "en": "Rarely does a museum succeed in bringing history to life as vividly as this one.",
+   "bytes": 54336
+  },
+  {
+   "line": 11,
+   "file": "day14-line011.mp3",
+   "sentence_id": "b2-day14-s11",
+   "en": "It is thanks to a single broken inscription that scholars finally understood an entire lost language.",
+   "bytes": 69312
+  },
+  {
+   "line": 12,
+   "file": "day14-line012.mp3",
+   "sentence_id": "b2-day14-s12",
+   "en": "What the excavations uncovered last year has forced historians to rewrite the story of the whole region.",
+   "bytes": 66432
+  },
+  {
+   "line": 13,
+   "file": "day14-line013.mp3",
+   "sentence_id": "b2-day14-s13",
+   "en": "Only when the stolen artifacts were returned did the museum tell the full story of its collection.",
+   "bytes": 55872
+  },
+  {
+   "line": 14,
+   "file": "day14-line014.mp3",
+   "sentence_id": "b2-day14-s14",
+   "en": "Were the old city walls to be opened to tourists, the whole district would come back to life.",
+   "bytes": 55872
+  },
+  {
+   "line": 15,
+   "file": "day14-line015.mp3",
+   "sentence_id": "b2-day14-s15",
+   "en": "It is said that some of the manuscripts hidden in the monastery are older than the monastery itself.",
+   "bytes": 52992
+  }
+ ]
+}
