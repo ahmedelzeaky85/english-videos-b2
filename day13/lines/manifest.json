@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 13,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day13-line001.mp3",
+   "sentence_id": "b2-day13-s01",
+   "en": "It is estimated that millions of people still lack access to clean drinking water.",
+   "bytes": 45696
+  },
+  {
+   "line": 2,
+   "file": "day13-line002.mp3",
+   "sentence_id": "b2-day13-s02",
+   "en": "What makes climate change so dangerous is that its worst effects will be felt by those who caused it least.",
+   "bytes": 55296
+  },
+  {
+   "line": 3,
+   "file": "day13-line003.mp3",
+   "sentence_id": "b2-day13-s03",
+   "en": "Not until every country works together will we solve problems that cross all borders.",
+   "bytes": 48000
+  },
+  {
+   "line": 4,
+   "file": "day13-line004.mp3",
+   "sentence_id": "b2-day13-s04",
+   "en": "However rich a nation may be, it cannot protect itself alone from a global crisis.",
+   "bytes": 52608
+  },
+  {
+   "line": 5,
+   "file": "day13-line005.mp3",
+   "sentence_id": "b2-day13-s05",
+   "en": "The report warns that millions could be forced to leave their homes because of rising sea levels.",
+   "bytes": 55104
+  },
+  {
+   "line": 6,
+   "file": "day13-line006.mp3",
+   "sentence_id": "b2-day13-s06",
+   "en": "Were rich countries to share their vaccines more fairly, fewer people would have suffered.",
+   "bytes": 47616
+  },
+  {
+   "line": 7,
+   "file": "day13-line007.mp3",
+   "sentence_id": "b2-day13-s07",
+   "en": "It is often the poorest communities that pay the highest price for decisions made far away.",
+   "bytes": 53760
+  },
+  {
+   "line": 8,
+   "file": "day13-line008.mp3",
+   "sentence_id": "b2-day13-s08",
+   "en": "Little progress will be made unless wealthy nations keep the promises they made at the summit.",
+   "bytes": 51072
+  },
+  {
+   "line": 9,
+   "file": "day13-line009.mp3",
+   "sentence_id": "b2-day13-s09",
+   "en": "What history teaches us is that no country is strong enough to face a pandemic on its own.",
+   "bytes": 54912
+  },
+  {
+   "line": 10,
+   "file": "day13-line010.mp3",
+   "sentence_id": "b2-day13-s10",
+   "en": "Rarely has the world needed cooperation as urgently as it does today.",
+   "bytes": 43776
+  },
+  {
+   "line": 11,
+   "file": "day13-line011.mp3",
+   "sentence_id": "b2-day13-s11",
+   "en": "It is estimated that by 2050 there could be more plastic in the ocean than fish.",
+   "bytes": 61824
+  },
+  {
+   "line": 12,
+   "file": "day13-line012.mp3",
+   "sentence_id": "b2-day13-s12",
+   "en": "What the drought revealed was how fragile the region's food supply really is.",
+   "bytes": 47040
+  },
+  {
+   "line": 13,
+   "file": "day13-line013.mp3",
+   "sentence_id": "b2-day13-s13",
+   "en": "No sooner had the ceasefire been announced than both sides accused each other of breaking it.",
+   "bytes": 53184
+  },
+  {
+   "line": 14,
+   "file": "day13-line014.mp3",
+   "sentence_id": "b2-day13-s14",
+   "en": "It is the next generation that will pay the price for the climate decisions we avoid today.",
+   "bytes": 46848
+  },
+  {
+   "line": 15,
+   "file": "day13-line015.mp3",
+   "sentence_id": "b2-day13-s15",
+   "en": "However much money is promised at climate conferences, little of it reaches the countries that need it most.",
+   "bytes": 57408
+  }
+ ]
+}
