@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 8,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day08-line001.mp3",
+   "sentence_id": "b2-day08-s01",
+   "en": "It is no exaggeration to say that advertising shapes what we want without us noticing.",
+   "bytes": 53376
+  },
+  {
+   "line": 2,
+   "file": "day08-line002.mp3",
+   "sentence_id": "b2-day08-s02",
+   "en": "The campaign is said to have cost millions, yet nobody remembers the product it promoted.",
+   "bytes": 53184
+  },
+  {
+   "line": 3,
+   "file": "day08-line003.mp3",
+   "sentence_id": "b2-day08-s03",
+   "en": "What makes an advertisement memorable is rarely its budget, but the story it tells.",
+   "bytes": 53760
+  },
+  {
+   "line": 4,
+   "file": "day08-line004.mp3",
+   "sentence_id": "b2-day08-s04",
+   "en": "Not only do advertisers sell products, but they also sell dreams and lifestyles.",
+   "bytes": 51840
+  },
+  {
+   "line": 5,
+   "file": "day08-line005.mp3",
+   "sentence_id": "b2-day08-s05",
+   "en": "However careful you are, it is almost impossible to escape advertisements in a modern city.",
+   "bytes": 53376
+  },
+  {
+   "line": 6,
+   "file": "day08-line006.mp3",
+   "sentence_id": "b2-day08-s06",
+   "en": "Were newspapers to disappear completely, something important would be lost from our daily lives.",
+   "bytes": 57792
+  },
+  {
+   "line": 7,
+   "file": "day08-line007.mp3",
+   "sentence_id": "b2-day08-s07",
+   "en": "It is often the quietest message in an advertisement that influences us the most.",
+   "bytes": 51648
+  },
+  {
+   "line": 8,
+   "file": "day08-line008.mp3",
+   "sentence_id": "b2-day08-s08",
+   "en": "The report claims that children see thousands of advertisements before they are old enough to understand them.",
+   "bytes": 55104
+  },
+  {
+   "line": 9,
+   "file": "day08-line009.mp3",
+   "sentence_id": "b2-day08-s09",
+   "en": "Rarely does a news story today appear without some opinion mixed into the facts.",
+   "bytes": 48576
+  },
+  {
+   "line": 10,
+   "file": "day08-line010.mp3",
+   "sentence_id": "b2-day08-s10",
+   "en": "What we should teach children is not to avoid media, but to question it.",
+   "bytes": 41472
+  }
+ ]
+}

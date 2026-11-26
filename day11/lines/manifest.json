@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 11,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day11-line001.mp3",
+   "sentence_id": "b2-day11-s01",
+   "en": "What separates champions from ordinary players is not talent alone, but the will to train when nobody is watching.",
+   "bytes": 67392
+  },
+  {
+   "line": 2,
+   "file": "day11-line002.mp3",
+   "sentence_id": "b2-day11-s02",
+   "en": "The match is said to have been one of the most exciting finals in the history of the tournament.",
+   "bytes": 54144
+  },
+  {
+   "line": 3,
+   "file": "day11-line003.mp3",
+   "sentence_id": "b2-day11-s03",
+   "en": "Not until the final minute did the team score the goal that made them champions.",
+   "bytes": 50688
+  },
+  {
+   "line": 4,
+   "file": "day11-line004.mp3",
+   "sentence_id": "b2-day11-s04",
+   "en": "However talented a player may be, no one wins a team game alone.",
+   "bytes": 43392
+  },
+  {
+   "line": 5,
+   "file": "day11-line005.mp3",
+   "sentence_id": "b2-day11-s05",
+   "en": "It is often the quietest player in training who surprises everyone on the day of the match.",
+   "bytes": 59520
+  },
+  {
+   "line": 6,
+   "file": "day11-line006.mp3",
+   "sentence_id": "b2-day11-s06",
+   "en": "Were the referee to watch the replay, he would surely change his decision.",
+   "bytes": 42240
+  },
+  {
+   "line": 7,
+   "file": "day11-line007.mp3",
+   "sentence_id": "b2-day11-s07",
+   "en": "What the fans remember is not the score, but the moment the whole stadium stood up.",
+   "bytes": 49536
+  },
+  {
+   "line": 8,
+   "file": "day11-line008.mp3",
+   "sentence_id": "b2-day11-s08",
+   "en": "Little did anyone expect that the youngest player on the field would decide the final.",
+   "bytes": 48960
+  },
+  {
+   "line": 9,
+   "file": "day11-line009.mp3",
+   "sentence_id": "b2-day11-s09",
+   "en": "Losing a final is painful, but it teaches a team lessons that victory never could.",
+   "bytes": 50112
+  },
+  {
+   "line": 10,
+   "file": "day11-line010.mp3",
+   "sentence_id": "b2-day11-s10",
+   "en": "It is believed that regular sport in childhood builds confidence that lasts a lifetime.",
+   "bytes": 48000
+  }
+ ]
+}

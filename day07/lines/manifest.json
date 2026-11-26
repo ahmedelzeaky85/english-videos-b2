@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 7,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day07-line001.mp3",
+   "sentence_id": "b2-day07-s01",
+   "en": "What separates a successful startup from a failing one is rarely the idea itself, but the way it is carried out.",
+   "bytes": 63360
+  },
+  {
+   "line": 2,
+   "file": "day07-line002.mp3",
+   "sentence_id": "b2-day07-s02",
+   "en": "Had the founders listened to their early customers, the company might have survived its first year.",
+   "bytes": 53760
+  },
+  {
+   "line": 3,
+   "file": "day07-line003.mp3",
+   "sentence_id": "b2-day07-s03",
+   "en": "It is believed that most new businesses fail within three years, mainly because they run out of cash.",
+   "bytes": 60672
+  },
+  {
+   "line": 4,
+   "file": "day07-line004.mp3",
+   "sentence_id": "b2-day07-s04",
+   "en": "Not only must an entrepreneur take risks, but they must also know which risks are worth taking.",
+   "bytes": 53568
+  },
+  {
+   "line": 5,
+   "file": "day07-line005.mp3",
+   "sentence_id": "b2-day07-s05",
+   "en": "However brilliant your product is, nobody will buy it if they have never heard of it.",
+   "bytes": 44928
+  },
+  {
+   "line": 6,
+   "file": "day07-line006.mp3",
+   "sentence_id": "b2-day07-s06",
+   "en": "The market is said to be changing so fast that last year's strategy may already be useless.",
+   "bytes": 58560
+  },
+  {
+   "line": 7,
+   "file": "day07-line007.mp3",
+   "sentence_id": "b2-day07-s07",
+   "en": "What investors really look for is not a perfect plan, but a team they can trust.",
+   "bytes": 52416
+  },
+  {
+   "line": 8,
+   "file": "day07-line008.mp3",
+   "sentence_id": "b2-day07-s08",
+   "en": "Were the company to lower its prices now, it would attract customers but lose their respect.",
+   "bytes": 57600
+  },
+  {
+   "line": 9,
+   "file": "day07-line009.mp3",
+   "sentence_id": "b2-day07-s09",
+   "en": "Little did he know that his small online shop would one day become a national brand.",
+   "bytes": 51840
+  },
+  {
+   "line": 10,
+   "file": "day07-line010.mp3",
+   "sentence_id": "b2-day07-s10",
+   "en": "It was her ability to adapt, not her original idea, that saved the business during the crisis.",
+   "bytes": 63360
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 9,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day09-line001.mp3",
+   "sentence_id": "b2-day09-s01",
+   "en": "It is a basic principle that everyone is innocent until proven guilty.",
+   "bytes": 48192
+  },
+  {
+   "line": 2,
+   "file": "day09-line002.mp3",
+   "sentence_id": "b2-day09-s02",
+   "en": "The new law is expected to reduce corruption, although some doubt it will be enforced.",
+   "bytes": 55872
+  },
+  {
+   "line": 3,
+   "file": "day09-line003.mp3",
+   "sentence_id": "b2-day09-s03",
+   "en": "What the victim wanted was not revenge, but simply to be heard.",
+   "bytes": 39936
+  },
+  {
+   "line": 4,
+   "file": "day09-line004.mp3",
+   "sentence_id": "b2-day09-s04",
+   "en": "Not until the evidence was presented in court did the public understand the whole story.",
+   "bytes": 50880
+  },
+  {
+   "line": 5,
+   "file": "day09-line005.mp3",
+   "sentence_id": "b2-day09-s05",
+   "en": "However strict the law may be, it means little if it is not applied equally to everyone.",
+   "bytes": 60480
+  },
+  {
+   "line": 6,
+   "file": "day09-line006.mp3",
+   "sentence_id": "b2-day09-s06",
+   "en": "The judge is said to have taken three days to reach her decision.",
+   "bytes": 33408
+  },
+  {
+   "line": 7,
+   "file": "day09-line007.mp3",
+   "sentence_id": "b2-day09-s07",
+   "en": "Were the punishment always to fit the crime, fewer people would lose faith in the system.",
+   "bytes": 51264
+  },
+  {
+   "line": 8,
+   "file": "day09-line008.mp3",
+   "sentence_id": "b2-day09-s08",
+   "en": "It is better to let a guilty person go free than to punish an innocent one, or so the old principle says.",
+   "bytes": 63936
+  },
+  {
+   "line": 9,
+   "file": "day09-line009.mp3",
+   "sentence_id": "b2-day09-s09",
+   "en": "Little attention was paid to his objection, even though it later proved to be correct.",
+   "bytes": 54912
+  },
+  {
+   "line": 10,
+   "file": "day09-line010.mp3",
+   "sentence_id": "b2-day09-s10",
+   "en": "What makes a society just is not the number of its laws, but the fairness with which they are applied.",
+   "bytes": 59328
+  }
+ ]
+}
