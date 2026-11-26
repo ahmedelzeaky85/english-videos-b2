@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 16,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day16-line001.mp3",
+   "sentence_id": "b2-day16-s01",
+   "en": "It is said that strong communities are built not on money, but on trust between neighbors.",
+   "bytes": 52416
+  },
+  {
+   "line": 2,
+   "file": "day16-line002.mp3",
+   "sentence_id": "b2-day16-s02",
+   "en": "What holds a family together is not the absence of conflict, but the willingness to forgive.",
+   "bytes": 57984
+  },
+  {
+   "line": 3,
+   "file": "day16-line003.mp3",
+   "sentence_id": "b2-day16-s03",
+   "en": "The longer a friendship lasts, the more it teaches us about patience and acceptance.",
+   "bytes": 62976
+  },
+  {
+   "line": 4,
+   "file": "day16-line004.mp3",
+   "sentence_id": "b2-day16-s04",
+   "en": "Not until we lose touch with old friends do we realize how much they meant to us.",
+   "bytes": 49728
+  },
+  {
+   "line": 5,
+   "file": "day16-line005.mp3",
+   "sentence_id": "b2-day16-s05",
+   "en": "However busy life becomes, we should never be too busy for the people we love.",
+   "bytes": 45888
+  },
+  {
+   "line": 6,
+   "file": "day16-line006.mp3",
+   "sentence_id": "b2-day16-s06",
+   "en": "It is often the smallest act of kindness that a person remembers for the rest of their life.",
+   "bytes": 46080
+  },
+  {
+   "line": 7,
+   "file": "day16-line007.mp3",
+   "sentence_id": "b2-day16-s07",
+   "en": "Were people to listen more and judge less, most conflicts would disappear within minutes.",
+   "bytes": 46464
+  },
+  {
+   "line": 8,
+   "file": "day16-line008.mp3",
+   "sentence_id": "b2-day16-s08",
+   "en": "Little things, repeated daily, matter more in a relationship than grand gestures made once a year.",
+   "bytes": 60288
+  },
+  {
+   "line": 9,
+   "file": "day16-line009.mp3",
+   "sentence_id": "b2-day16-s09",
+   "en": "What modern life has taken from us is the time to simply sit with one another and talk.",
+   "bytes": 53952
+  },
+  {
+   "line": 10,
+   "file": "day16-line010.mp3",
+   "sentence_id": "b2-day16-s10",
+   "en": "Rarely do we thank the people who shaped us until it is almost too late.",
+   "bytes": 44928
+  },
+  {
+   "line": 11,
+   "file": "day16-line011.mp3",
+   "sentence_id": "b2-day16-s11",
+   "en": "What neighbors remember years later is not the gifts, but the times you simply showed up.",
+   "bytes": 51264
+  },
+  {
+   "line": 12,
+   "file": "day16-line012.mp3",
+   "sentence_id": "b2-day16-s12",
+   "en": "It is in difficult times, not easy ones, that you discover who your real friends are.",
+   "bytes": 57792
+  },
+  {
+   "line": 13,
+   "file": "day16-line013.mp3",
+   "sentence_id": "b2-day16-s13",
+   "en": "The more connected we become online, the lonelier many people say they feel.",
+   "bytes": 45504
+  },
+  {
+   "line": 14,
+   "file": "day16-line014.mp3",
+   "sentence_id": "b2-day16-s14",
+   "en": "Were families to eat one meal together every day, many small misunderstandings would disappear.",
+   "bytes": 56640
+  },
+  {
+   "line": 15,
+   "file": "day16-line015.mp3",
+   "sentence_id": "b2-day16-s15",
+   "en": "Not only should we apologize when we are wrong, but we should also forgive when others are.",
+   "bytes": 53568
+  }
+ ]
+}
