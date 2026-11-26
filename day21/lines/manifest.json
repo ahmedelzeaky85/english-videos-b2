@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 21,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day21-line001.mp3",
+   "sentence_id": "b2-day21-s01",
+   "en": "It is estimated that dozens of species disappear every day before scientists even discover them.",
+   "bytes": 62400
+  },
+  {
+   "line": 2,
+   "file": "day21-line002.mp3",
+   "sentence_id": "b2-day21-s02",
+   "en": "What makes the desert so remarkable is the variety of life that survives in such harsh conditions.",
+   "bytes": 61248
+  },
+  {
+   "line": 3,
+   "file": "day21-line003.mp3",
+   "sentence_id": "b2-day21-s03",
+   "en": "Not until the reserve was established did the number of gazelles begin to recover.",
+   "bytes": 53376
+  },
+  {
+   "line": 4,
+   "file": "day21-line004.mp3",
+   "sentence_id": "b2-day21-s04",
+   "en": "However small an island may be, it can hold species found nowhere else on Earth.",
+   "bytes": 55104
+  },
+  {
+   "line": 5,
+   "file": "day21-line005.mp3",
+   "sentence_id": "b2-day21-s05",
+   "en": "The migration is said to cover over ten thousand kilometers every single year.",
+   "bytes": 53952
+  },
+  {
+   "line": 6,
+   "file": "day21-line006.mp3",
+   "sentence_id": "b2-day21-s06",
+   "en": "Were the coral reefs to die, a quarter of all ocean life would lose its home.",
+   "bytes": 46272
+  },
+  {
+   "line": 7,
+   "file": "day21-line007.mp3",
+   "sentence_id": "b2-day21-s07",
+   "en": "It is not the strongest species that survives, but the one most able to adapt.",
+   "bytes": 48384
+  },
+  {
+   "line": 8,
+   "file": "day21-line008.mp3",
+   "sentence_id": "b2-day21-s08",
+   "en": "Little do we realize how deeply every creature is connected to the balance of its environment.",
+   "bytes": 53184
+  },
+  {
+   "line": 9,
+   "file": "day21-line009.mp3",
+   "sentence_id": "b2-day21-s09",
+   "en": "What conservation needs most is not more money, but more people who genuinely care.",
+   "bytes": 52992
+  },
+  {
+   "line": 10,
+   "file": "day21-line010.mp3",
+   "sentence_id": "b2-day21-s10",
+   "en": "Rarely does one person change the fate of a species, but every effort counts.",
+   "bytes": 51840
+  },
+  {
+   "line": 11,
+   "file": "day21-line011.mp3",
+   "sentence_id": "b2-day21-s11",
+   "en": "What scientists find most worrying is not extinction itself, but the speed at which it is accelerating.",
+   "bytes": 60288
+  },
+  {
+   "line": 12,
+   "file": "day21-line012.mp3",
+   "sentence_id": "b2-day21-s12",
+   "en": "It is through protecting small habitats that whole ecosystems can be saved.",
+   "bytes": 44160
+  },
+  {
+   "line": 13,
+   "file": "day21-line013.mp3",
+   "sentence_id": "b2-day21-s13",
+   "en": "Not until the hunting ban was strictly enforced did the eagle population start to rise again.",
+   "bytes": 54912
+  },
+  {
+   "line": 14,
+   "file": "day21-line014.mp3",
+   "sentence_id": "b2-day21-s14",
+   "en": "Were the mangrove forests to disappear, the coastline would lose its natural defense against storms.",
+   "bytes": 61632
+  },
+  {
+   "line": 15,
+   "file": "day21-line015.mp3",
+   "sentence_id": "b2-day21-s15",
+   "en": "It is the tiniest creatures, not the largest, that do the heaviest work in any ecosystem.",
+   "bytes": 54144
+  }
+ ]
+}
