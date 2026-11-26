@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 23,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day23-line001.mp3",
+   "sentence_id": "b2-day23-s01",
+   "en": "What makes a dilemma a dilemma is that every choice carries a cost someone must pay.",
+   "bytes": 52992
+  },
+  {
+   "line": 2,
+   "file": "day23-line002.mp3",
+   "sentence_id": "b2-day23-s02",
+   "en": "It is not always easy to know where honesty ends and cruelty begins.",
+   "bytes": 47616
+  },
+  {
+   "line": 3,
+   "file": "day23-line003.mp3",
+   "sentence_id": "b2-day23-s03",
+   "en": "Not until we face such a choice ourselves do we understand how difficult it really is.",
+   "bytes": 58560
+  },
+  {
+   "line": 4,
+   "file": "day23-line004.mp3",
+   "sentence_id": "b2-day23-s04",
+   "en": "However good our intentions may be, what matters in the end is the effect of our actions.",
+   "bytes": 53952
+  },
+  {
+   "line": 5,
+   "file": "day23-line005.mp3",
+   "sentence_id": "b2-day23-s05",
+   "en": "Were doctors always to tell patients the whole truth, some would lose the hope that keeps them fighting.",
+   "bytes": 57216
+  },
+  {
+   "line": 6,
+   "file": "day23-line006.mp3",
+   "sentence_id": "b2-day23-s06",
+   "en": "It is said that character is what you do when nobody is watching.",
+   "bytes": 40128
+  },
+  {
+   "line": 7,
+   "file": "day23-line007.mp3",
+   "sentence_id": "b2-day23-s07",
+   "en": "The question is not whether the machine can make the decision, but whether it should.",
+   "bytes": 47424
+  },
+  {
+   "line": 8,
+   "file": "day23-line008.mp3",
+   "sentence_id": "b2-day23-s08",
+   "en": "Little does the law help when the real question is not what is legal, but what is right.",
+   "bytes": 55680
+  },
+  {
+   "line": 9,
+   "file": "day23-line009.mp3",
+   "sentence_id": "b2-day23-s09",
+   "en": "What we owe future generations is a world at least as good as the one we were given.",
+   "bytes": 52416
+  },
+  {
+   "line": 10,
+   "file": "day23-line010.mp3",
+   "sentence_id": "b2-day23-s10",
+   "en": "Rarely is the easiest choice also the right one.",
+   "bytes": 33216
+  },
+  {
+   "line": 11,
+   "file": "day23-line011.mp3",
+   "sentence_id": "b2-day23-s11",
+   "en": "What the experiment showed was that ordinary people can do terrible things when ordered by an authority.",
+   "bytes": 62400
+  },
+  {
+   "line": 12,
+   "file": "day23-line012.mp3",
+   "sentence_id": "b2-day23-s12",
+   "en": "It is easier to judge another person's dilemma than to live through your own.",
+   "bytes": 43968
+  },
+  {
+   "line": 13,
+   "file": "day23-line013.mp3",
+   "sentence_id": "b2-day23-s13",
+   "en": "Not until the whistleblower spoke did anyone ask what the company had hidden from the public.",
+   "bytes": 57792
+  },
+  {
+   "line": 14,
+   "file": "day23-line014.mp3",
+   "sentence_id": "b2-day23-s14",
+   "en": "Were profit the only measure of success, every hospital and school would be considered a failure.",
+   "bytes": 60480
+  },
+  {
+   "line": 15,
+   "file": "day23-line015.mp3",
+   "sentence_id": "b2-day23-s15",
+   "en": "However good the reason may be, telling half the truth is still a form of lying.",
+   "bytes": 48000
+  }
+ ]
+}
