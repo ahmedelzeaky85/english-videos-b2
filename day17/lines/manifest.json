@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 17,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day17-line001.mp3",
+   "sentence_id": "b2-day17-s01",
+   "en": "It is impossible to remove all risk from life; the best we can do is to manage it wisely.",
+   "bytes": 60096
+  },
+  {
+   "line": 2,
+   "file": "day17-line002.mp3",
+   "sentence_id": "b2-day17-s02",
+   "en": "What the accident taught the company was that safety rules are written in the blood of past mistakes.",
+   "bytes": 54912
+  },
+  {
+   "line": 3,
+   "file": "day17-line003.mp3",
+   "sentence_id": "b2-day17-s03",
+   "en": "Not until the bridge collapsed did the authorities take the warnings seriously.",
+   "bytes": 42048
+  },
+  {
+   "line": 4,
+   "file": "day17-line004.mp3",
+   "sentence_id": "b2-day17-s04",
+   "en": "However careful a driver you are, the road always carries risks you cannot control.",
+   "bytes": 51072
+  },
+  {
+   "line": 5,
+   "file": "day17-line005.mp3",
+   "sentence_id": "b2-day17-s05",
+   "en": "The device is designed to shut down automatically, were the temperature to rise beyond the safe limit.",
+   "bytes": 55104
+  },
+  {
+   "line": 6,
+   "file": "day17-line006.mp3",
+   "sentence_id": "b2-day17-s06",
+   "en": "It is often the risks we ignore, not the ones we fear, that end up hurting us.",
+   "bytes": 46848
+  },
+  {
+   "line": 7,
+   "file": "day17-line007.mp3",
+   "sentence_id": "b2-day17-s07",
+   "en": "Little did the passengers know that a simple check had prevented a disaster that morning.",
+   "bytes": 48192
+  },
+  {
+   "line": 8,
+   "file": "day17-line008.mp3",
+   "sentence_id": "b2-day17-s08",
+   "en": "Were everyone to follow the safety instructions, most accidents would never happen.",
+   "bytes": 41664
+  },
+  {
+   "line": 9,
+   "file": "day17-line009.mp3",
+   "sentence_id": "b2-day17-s09",
+   "en": "What matters is not whether accidents can happen, but whether we are prepared when they do.",
+   "bytes": 48768
+  },
+  {
+   "line": 10,
+   "file": "day17-line010.mp3",
+   "sentence_id": "b2-day17-s10",
+   "en": "Rarely does fear protect us as well as preparation does.",
+   "bytes": 37824
+  },
+  {
+   "line": 11,
+   "file": "day17-line011.mp3",
+   "sentence_id": "b2-day17-s11",
+   "en": "What investigations usually reveal is not one big error, but a chain of small ignored warnings.",
+   "bytes": 68544
+  },
+  {
+   "line": 12,
+   "file": "day17-line012.mp3",
+   "sentence_id": "b2-day17-s12",
+   "en": "It is human nature to believe that accidents happen to other people, never to us.",
+   "bytes": 46848
+  },
+  {
+   "line": 13,
+   "file": "day17-line013.mp3",
+   "sentence_id": "b2-day17-s13",
+   "en": "Only after the fire did the building's owners install the alarms they had been advised to fit years earlier.",
+   "bytes": 58368
+  },
+  {
+   "line": 14,
+   "file": "day17-line014.mp3",
+   "sentence_id": "b2-day17-s14",
+   "en": "Were the workers to report every near miss, the company could prevent most serious accidents.",
+   "bytes": 52992
+  },
+  {
+   "line": 15,
+   "file": "day17-line015.mp3",
+   "sentence_id": "b2-day17-s15",
+   "en": "However advanced the warning system may be, it is worthless if nobody reacts to it.",
+   "bytes": 51264
+  }
+ ]
+}
