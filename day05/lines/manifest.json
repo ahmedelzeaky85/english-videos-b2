@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 5,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day05-line001.mp3",
+   "sentence_id": "b2-day05-s01",
+   "en": "What draws people to art is not its price, but the feelings it awakens in them.",
+   "bytes": 48768
+  },
+  {
+   "line": 2,
+   "file": "day05-line002.mp3",
+   "sentence_id": "b2-day05-s02",
+   "en": "The painting is thought to have been completed in the artist's final years.",
+   "bytes": 42240
+  },
+  {
+   "line": 3,
+   "file": "day05-line003.mp3",
+   "sentence_id": "b2-day05-s03",
+   "en": "Not only does music express what words cannot, but it also connects people across cultures.",
+   "bytes": 64512
+  },
+  {
+   "line": 4,
+   "file": "day05-line004.mp3",
+   "sentence_id": "b2-day05-s04",
+   "en": "If I had learned to play an instrument as a child, I would be a very different person today.",
+   "bytes": 52800
+  },
+  {
+   "line": 5,
+   "file": "day05-line005.mp3",
+   "sentence_id": "b2-day05-s05",
+   "en": "However difficult the first attempts may seem, every artist was once a beginner.",
+   "bytes": 47424
+  },
+  {
+   "line": 6,
+   "file": "day05-line006.mp3",
+   "sentence_id": "b2-day05-s06",
+   "en": "It is often the simplest melodies that stay in our memory the longest.",
+   "bytes": 38400
+  },
+  {
+   "line": 7,
+   "file": "day05-line007.mp3",
+   "sentence_id": "b2-day05-s07",
+   "en": "Creativity cannot be forced; it must be given time, patience and silence to grow.",
+   "bytes": 57024
+  },
+  {
+   "line": 8,
+   "file": "day05-line008.mp3",
+   "sentence_id": "b2-day05-s08",
+   "en": "Rarely does a film capture the spirit of a book as perfectly as this one does.",
+   "bytes": 49536
+  },
+  {
+   "line": 9,
+   "file": "day05-line009.mp3",
+   "sentence_id": "b2-day05-s09",
+   "en": "The museum is said to hold over a thousand pieces that have never been shown to the public.",
+   "bytes": 59136
+  },
+  {
+   "line": 10,
+   "file": "day05-line010.mp3",
+   "sentence_id": "b2-day05-s10",
+   "en": "What matters in art is not perfection, but honesty; a painting must say something true.",
+   "bytes": 58176
+  }
+ ]
+}

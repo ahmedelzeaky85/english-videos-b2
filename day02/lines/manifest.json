@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 2,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day02-line001.mp3",
+   "sentence_id": "b2-day02-s01",
+   "en": "It was not talent that made her successful, but years of disciplined practice.",
+   "bytes": 47040
+  },
+  {
+   "line": 2,
+   "file": "day02-line002.mp3",
+   "sentence_id": "b2-day02-s02",
+   "en": "Had he taken the warning seriously, the project would not have failed so badly.",
+   "bytes": 46464
+  },
+  {
+   "line": 3,
+   "file": "day02-line003.mp3",
+   "sentence_id": "b2-day02-s03",
+   "en": "Success is rarely the result of luck; more often, it is the reward for refusing to give up.",
+   "bytes": 59136
+  },
+  {
+   "line": 4,
+   "file": "day02-line004.mp3",
+   "sentence_id": "b2-day02-s04",
+   "en": "She is said to be the youngest manager the company has ever had.",
+   "bytes": 41280
+  },
+  {
+   "line": 5,
+   "file": "day02-line005.mp3",
+   "sentence_id": "b2-day02-s05",
+   "en": "However hard you work, there will always be someone who doubts you, so stop trying to please everyone.",
+   "bytes": 59520
+  },
+  {
+   "line": 6,
+   "file": "day02-line006.mp3",
+   "sentence_id": "b2-day02-s06",
+   "en": "What surprised me most was that he treated every failure as a lesson rather than a defeat.",
+   "bytes": 59136
+  },
+  {
+   "line": 7,
+   "file": "day02-line007.mp3",
+   "sentence_id": "b2-day02-s07",
+   "en": "If only I had listened to my teacher's advice, I would have avoided so many mistakes.",
+   "bytes": 50688
+  },
+  {
+   "line": 8,
+   "file": "day02-line008.mp3",
+   "sentence_id": "b2-day02-s08",
+   "en": "Not until he lost everything did he understand what really mattered in life.",
+   "bytes": 45888
+  },
+  {
+   "line": 9,
+   "file": "day02-line009.mp3",
+   "sentence_id": "b2-day02-s09",
+   "en": "The team must have been disappointed, because they had trained for months before the tournament was canceled.",
+   "bytes": 56064
+  },
+  {
+   "line": 10,
+   "file": "day02-line010.mp3",
+   "sentence_id": "b2-day02-s10",
+   "en": "Failing once does not make you a failure, just as succeeding once does not make you a master.",
+   "bytes": 54528
+  }
+ ]
+}

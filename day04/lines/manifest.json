@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 4,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day04-line001.mp3",
+   "sentence_id": "b2-day04-s01",
+   "en": "It is widely believed that water once flowed on the surface of Mars.",
+   "bytes": 44160
+  },
+  {
+   "line": 2,
+   "file": "day04-line002.mp3",
+   "sentence_id": "b2-day04-s02",
+   "en": "The discovery is said to have changed the way scientists understand the human brain.",
+   "bytes": 48192
+  },
+  {
+   "line": 3,
+   "file": "day04-line003.mp3",
+   "sentence_id": "b2-day04-s03",
+   "en": "Not until recently have researchers been able to map the ocean floor in such detail.",
+   "bytes": 52416
+  },
+  {
+   "line": 4,
+   "file": "day04-line004.mp3",
+   "sentence_id": "b2-day04-s04",
+   "en": "If it were not for vaccines, millions of lives would have been lost to diseases we now rarely see.",
+   "bytes": 54144
+  },
+  {
+   "line": 5,
+   "file": "day04-line005.mp3",
+   "sentence_id": "b2-day04-s05",
+   "en": "What makes this experiment remarkable is that it can be repeated in any school laboratory.",
+   "bytes": 55104
+  },
+  {
+   "line": 6,
+   "file": "day04-line006.mp3",
+   "sentence_id": "b2-day04-s06",
+   "en": "The results must have been checked several times, because the journal published them without delay.",
+   "bytes": 49344
+  },
+  {
+   "line": 7,
+   "file": "day04-line007.mp3",
+   "sentence_id": "b2-day04-s07",
+   "en": "Little did the scientists expect that their small project would lead to a Nobel Prize.",
+   "bytes": 49920
+  },
+  {
+   "line": 8,
+   "file": "day04-line008.mp3",
+   "sentence_id": "b2-day04-s08",
+   "en": "Curiosity, rather than money, is what drives most great scientists to keep asking questions.",
+   "bytes": 56256
+  },
+  {
+   "line": 9,
+   "file": "day04-line009.mp3",
+   "sentence_id": "b2-day04-s09",
+   "en": "However advanced our technology becomes, there will always be questions we cannot answer.",
+   "bytes": 55488
+  },
+  {
+   "line": 10,
+   "file": "day04-line010.mp3",
+   "sentence_id": "b2-day04-s10",
+   "en": "It was through years of failed experiments that she finally discovered the right formula.",
+   "bytes": 49536
+  }
+ ]
+}

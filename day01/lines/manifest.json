@@ -1,0 +1,78 @@
+{
+ "level": "b2",
+ "day": 1,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day01-line001.mp3",
+   "sentence_id": "b2-day01-s01",
+   "en": "What I find most convincing about her argument is that she supports every claim with evidence.",
+   "bytes": 52992
+  },
+  {
+   "line": 2,
+   "file": "day01-line002.mp3",
+   "sentence_id": "b2-day01-s02",
+   "en": "It is often said that social media divides people, but I would argue that it simply reveals divisions that already existed.",
+   "bytes": 74688
+  },
+  {
+   "line": 3,
+   "file": "day01-line003.mp3",
+   "sentence_id": "b2-day01-s03",
+   "en": "However strong his opinion may be, he should still listen to those who disagree with him.",
+   "bytes": 49920
+  },
+  {
+   "line": 4,
+   "file": "day01-line004.mp3",
+   "sentence_id": "b2-day01-s04",
+   "en": "I would rather hear an honest disagreement than a polite agreement that hides the truth.",
+   "bytes": 53568
+  },
+  {
+   "line": 5,
+   "file": "day01-line005.mp3",
+   "sentence_id": "b2-day01-s05",
+   "en": "Not only did she defend her position calmly, but she also managed to change several minds in the room.",
+   "bytes": 59904
+  },
+  {
+   "line": 6,
+   "file": "day01-line006.mp3",
+   "sentence_id": "b2-day01-s06",
+   "en": "It is pointless arguing with someone who has already made up their mind.",
+   "bytes": 38400
+  },
+  {
+   "line": 7,
+   "file": "day01-line007.mp3",
+   "sentence_id": "b2-day01-s07",
+   "en": "The fact that so many people believe the rumor shows how easily misinformation spreads.",
+   "bytes": 55488
+  },
+  {
+   "line": 8,
+   "file": "day01-line008.mp3",
+   "sentence_id": "b2-day01-s08",
+   "en": "You cannot seriously expect me to believe that the decision had nothing to do with money.",
+   "bytes": 50496
+  },
+  {
+   "line": 9,
+   "file": "day01-line009.mp3",
+   "sentence_id": "b2-day01-s09",
+   "en": "What really matters is not who wins the argument, but whether we get closer to the truth.",
+   "bytes": 53952
+  },
+  {
+   "line": 10,
+   "file": "day01-line010.mp3",
+   "sentence_id": "b2-day01-s10",
+   "en": "Were I in your position, I would think twice before repeating that claim in public.",
+   "bytes": 47616
+  }
+ ]
+}
