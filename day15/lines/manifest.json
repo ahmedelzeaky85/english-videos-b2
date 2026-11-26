@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 15,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day15-line001.mp3",
+   "sentence_id": "b2-day15-s01",
+   "en": "It is often a simple frustration that leads to the most useful inventions.",
+   "bytes": 38784
+  },
+  {
+   "line": 2,
+   "file": "day15-line002.mp3",
+   "sentence_id": "b2-day15-s02",
+   "en": "The smartphone is said to have changed our lives more than any invention of the last fifty years.",
+   "bytes": 54528
+  },
+  {
+   "line": 3,
+   "file": "day15-line003.mp3",
+   "sentence_id": "b2-day15-s03",
+   "en": "What the inventor never expected was that her creation would be used in hospitals around the world.",
+   "bytes": 60672
+  },
+  {
+   "line": 4,
+   "file": "day15-line004.mp3",
+   "sentence_id": "b2-day15-s04",
+   "en": "Not only did the printing press spread knowledge, but it also changed who was allowed to have it.",
+   "bytes": 52416
+  },
+  {
+   "line": 5,
+   "file": "day15-line005.mp3",
+   "sentence_id": "b2-day15-s05",
+   "en": "However advanced an invention may be, it is useless unless people can actually afford it.",
+   "bytes": 58944
+  },
+  {
+   "line": 6,
+   "file": "day15-line006.mp3",
+   "sentence_id": "b2-day15-s06",
+   "en": "Were electricity to be invented today, it would surely be called impossible by the experts of the age.",
+   "bytes": 61632
+  },
+  {
+   "line": 7,
+   "file": "day15-line007.mp3",
+   "sentence_id": "b2-day15-s07",
+   "en": "It is not the strongest idea that survives, but the one that adapts fastest to change.",
+   "bytes": 58560
+  },
+  {
+   "line": 8,
+   "file": "day15-line008.mp3",
+   "sentence_id": "b2-day15-s08",
+   "en": "Little by little, the invention moved from a luxury of the rich to a necessity for everyone.",
+   "bytes": 58560
+  },
+  {
+   "line": 9,
+   "file": "day15-line009.mp3",
+   "sentence_id": "b2-day15-s09",
+   "en": "What drives most inventors is not money, but the joy of solving a problem nobody else could solve.",
+   "bytes": 62208
+  },
+  {
+   "line": 10,
+   "file": "day15-line010.mp3",
+   "sentence_id": "b2-day15-s10",
+   "en": "Rarely does a single person invent anything great alone; every breakthrough stands on earlier work.",
+   "bytes": 72576
+  },
+  {
+   "line": 11,
+   "file": "day15-line011.mp3",
+   "sentence_id": "b2-day15-s11",
+   "en": "What no one predicted was that the most successful product of the decade would be a device nobody asked for.",
+   "bytes": 62016
+  },
+  {
+   "line": 12,
+   "file": "day15-line012.mp3",
+   "sentence_id": "b2-day15-s12",
+   "en": "It is not enough for an invention to work; it must also fit into people's daily habits.",
+   "bytes": 56064
+  },
+  {
+   "line": 13,
+   "file": "day15-line013.mp3",
+   "sentence_id": "b2-day15-s13",
+   "en": "So rapidly is artificial intelligence developing that even its creators admit they cannot predict its limits.",
+   "bytes": 64704
+  },
+  {
+   "line": 14,
+   "file": "day15-line014.mp3",
+   "sentence_id": "b2-day15-s14",
+   "en": "Were the patent to expire tomorrow, dozens of companies would copy the design within a month.",
+   "bytes": 57984
+  },
+  {
+   "line": 15,
+   "file": "day15-line015.mp3",
+   "sentence_id": "b2-day15-s15",
+   "en": "It was a failed experiment, of all things, that gave the world one of its most important medicines.",
+   "bytes": 57216
+  }
+ ]
+}
