@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 20,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day20-line001.mp3",
+   "sentence_id": "b2-day20-s01",
+   "en": "What every skilled negotiator knows is that listening is more powerful than speaking.",
+   "bytes": 46080
+  },
+  {
+   "line": 2,
+   "file": "day20-line002.mp3",
+   "sentence_id": "b2-day20-s02",
+   "en": "It is better to understand the other side's needs before you present your own demands.",
+   "bytes": 49920
+  },
+  {
+   "line": 3,
+   "file": "day20-line003.mp3",
+   "sentence_id": "b2-day20-s03",
+   "en": "Not until both sides feel they have gained something is a deal truly successful.",
+   "bytes": 45312
+  },
+  {
+   "line": 4,
+   "file": "day20-line004.mp3",
+   "sentence_id": "b2-day20-s04",
+   "en": "However tempting it may be to win every point, a good negotiator knows when to compromise.",
+   "bytes": 53376
+  },
+  {
+   "line": 5,
+   "file": "day20-line005.mp3",
+   "sentence_id": "b2-day20-s05",
+   "en": "Were you to accept our first offer, we would be prepared to sign the contract today.",
+   "bytes": 44352
+  },
+  {
+   "line": 6,
+   "file": "day20-line006.mp3",
+   "sentence_id": "b2-day20-s06",
+   "en": "The agreement is said to have taken six months of quiet negotiation to reach.",
+   "bytes": 45888
+  },
+  {
+   "line": 7,
+   "file": "day20-line007.mp3",
+   "sentence_id": "b2-day20-s07",
+   "en": "What persuaded the investors was not the presentation, but the honesty with which the risks were explained.",
+   "bytes": 62784
+  },
+  {
+   "line": 8,
+   "file": "day20-line008.mp3",
+   "sentence_id": "b2-day20-s08",
+   "en": "Little did the buyer suspect that the seller was ready to accept a much lower price.",
+   "bytes": 56064
+  },
+  {
+   "line": 9,
+   "file": "day20-line009.mp3",
+   "sentence_id": "b2-day20-s09",
+   "en": "It is rarely the loudest voice in the room that wins the negotiation.",
+   "bytes": 40704
+  },
+  {
+   "line": 10,
+   "file": "day20-line010.mp3",
+   "sentence_id": "b2-day20-s10",
+   "en": "Should both parties refuse to move, the discussion will go nowhere.",
+   "bytes": 44736
+  },
+  {
+   "line": 11,
+   "file": "day20-line011.mp3",
+   "sentence_id": "b2-day20-s11",
+   "en": "What both sides finally agreed on was a solution neither had imagined at the start.",
+   "bytes": 50112
+  },
+  {
+   "line": 12,
+   "file": "day20-line012.mp3",
+   "sentence_id": "b2-day20-s12",
+   "en": "It is a mistake to reveal your bottom line before you understand the other side's priorities.",
+   "bytes": 56256
+  },
+  {
+   "line": 13,
+   "file": "day20-line013.mp3",
+   "sentence_id": "b2-day20-s13",
+   "en": "Only when the deadline approached did the two companies find the flexibility they had claimed was impossible.",
+   "bytes": 55488
+  },
+  {
+   "line": 14,
+   "file": "day20-line014.mp3",
+   "sentence_id": "b2-day20-s14",
+   "en": "Were we to increase the order by twenty percent, could you improve the price accordingly?",
+   "bytes": 49344
+  },
+  {
+   "line": 15,
+   "file": "day20-line015.mp3",
+   "sentence_id": "b2-day20-s15",
+   "en": "However strong your position may seem, a negotiation that humiliates the other side rarely lasts.",
+   "bytes": 61248
+  }
+ ]
+}
