@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 19,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day19-line001.mp3",
+   "sentence_id": "b2-day19-s01",
+   "en": "I am writing to express my dissatisfaction with the service I received at your branch last week.",
+   "bytes": 47424
+  },
+  {
+   "line": 2,
+   "file": "day19-line002.mp3",
+   "sentence_id": "b2-day19-s02",
+   "en": "Not only was the product damaged, but the replacement arrived two weeks later than promised.",
+   "bytes": 52992
+  },
+  {
+   "line": 3,
+   "file": "day19-line003.mp3",
+   "sentence_id": "b2-day19-s03",
+   "en": "I would be grateful if you could look into this matter at your earliest convenience.",
+   "bytes": 40128
+  },
+  {
+   "line": 4,
+   "file": "day19-line004.mp3",
+   "sentence_id": "b2-day19-s04",
+   "en": "Were the situation not so serious, I would not have troubled you with this letter.",
+   "bytes": 42240
+  },
+  {
+   "line": 5,
+   "file": "day19-line005.mp3",
+   "sentence_id": "b2-day19-s05",
+   "en": "It is with great regret that I must inform you of my decision to cancel my membership.",
+   "bytes": 48960
+  },
+  {
+   "line": 6,
+   "file": "day19-line006.mp3",
+   "sentence_id": "b2-day19-s06",
+   "en": "What I find particularly disappointing is that nobody has replied to my previous three emails.",
+   "bytes": 54144
+  },
+  {
+   "line": 7,
+   "file": "day19-line007.mp3",
+   "sentence_id": "b2-day19-s07",
+   "en": "However polite a complaint letter may be, it should still state clearly what action is expected.",
+   "bytes": 57216
+  },
+  {
+   "line": 8,
+   "file": "day19-line008.mp3",
+   "sentence_id": "b2-day19-s08",
+   "en": "I trust that you will give this matter your immediate attention, as the delay has caused considerable inconvenience.",
+   "bytes": 59712
+  },
+  {
+   "line": 9,
+   "file": "day19-line009.mp3",
+   "sentence_id": "b2-day19-s09",
+   "en": "Should you require any further information, please do not hesitate to contact me.",
+   "bytes": 43776
+  },
+  {
+   "line": 10,
+   "file": "day19-line010.mp3",
+   "sentence_id": "b2-day19-s10",
+   "en": "It was not until I threatened to contact consumer protection that the company finally responded.",
+   "bytes": 49344
+  },
+  {
+   "line": 11,
+   "file": "day19-line011.mp3",
+   "sentence_id": "b2-day19-s11",
+   "en": "I am writing with regard to the invoice dated 3 March, which I believe contains an error.",
+   "bytes": 56448
+  },
+  {
+   "line": 12,
+   "file": "day19-line012.mp3",
+   "sentence_id": "b2-day19-s12",
+   "en": "Not only do I expect a full refund, but I also request a written explanation of how this error occurred.",
+   "bytes": 60864
+  },
+  {
+   "line": 13,
+   "file": "day19-line013.mp3",
+   "sentence_id": "b2-day19-s13",
+   "en": "Should the matter remain unresolved within fourteen days, I shall be forced to seek legal advice.",
+   "bytes": 49920
+  },
+  {
+   "line": 14,
+   "file": "day19-line014.mp3",
+   "sentence_id": "b2-day19-s14",
+   "en": "What I expect, at the very least, is an acknowledgment that the delay was unacceptable.",
+   "bytes": 51456
+  },
+  {
+   "line": 15,
+   "file": "day19-line015.mp3",
+   "sentence_id": "b2-day19-s15",
+   "en": "I would appreciate it if this letter could be forwarded to the department responsible for customer accounts.",
+   "bytes": 55296
+  }
+ ]
+}
