@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 28,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day28-line001.mp3",
+   "sentence_id": "b2-day28-s01",
+   "en": "What most people regret is not the mistakes they made, but the chances they never took.",
+   "bytes": 49152
+  },
+  {
+   "line": 2,
+   "file": "day28-line002.mp3",
+   "sentence_id": "b2-day28-s02",
+   "en": "I wish I had listened more carefully when my grandmother told her stories.",
+   "bytes": 35520
+  },
+  {
+   "line": 3,
+   "file": "day28-line003.mp3",
+   "sentence_id": "b2-day28-s03",
+   "en": "If only we had known how quickly time passes, we would have spent more evenings together.",
+   "bytes": 49152
+  },
+  {
+   "line": 4,
+   "file": "day28-line004.mp3",
+   "sentence_id": "b2-day28-s04",
+   "en": "Not until we lose something do we fully understand its value.",
+   "bytes": 38400
+  },
+  {
+   "line": 5,
+   "file": "day28-line005.mp3",
+   "sentence_id": "b2-day28-s05",
+   "en": "However hard I try, I cannot remember the sound of my grandfather's laugh.",
+   "bytes": 41280
+  },
+  {
+   "line": 6,
+   "file": "day28-line006.mp3",
+   "sentence_id": "b2-day28-s06",
+   "en": "Were I to live my life again, I would worry less and travel more.",
+   "bytes": 39936
+  },
+  {
+   "line": 7,
+   "file": "day28-line007.mp3",
+   "sentence_id": "b2-day28-s07",
+   "en": "It is not the years in your life that count, but the life in your years.",
+   "bytes": 43392
+  },
+  {
+   "line": 8,
+   "file": "day28-line008.mp3",
+   "sentence_id": "b2-day28-s08",
+   "en": "If only the train had arrived five minutes earlier, I would have said goodbye properly.",
+   "bytes": 49728
+  },
+  {
+   "line": 9,
+   "file": "day28-line009.mp3",
+   "sentence_id": "b2-day28-s09",
+   "en": "I would rather fail at something I love than succeed at something that means nothing to me.",
+   "bytes": 47040
+  },
+  {
+   "line": 10,
+   "file": "day28-line010.mp3",
+   "sentence_id": "b2-day28-s10",
+   "en": "Rarely do we get second chances, so it is wiser to treat the first one with care.",
+   "bytes": 57792
+  },
+  {
+   "line": 11,
+   "file": "day28-line011.mp3",
+   "sentence_id": "b2-day28-s11",
+   "en": "What I would give to hear my father's voice one more time cannot be measured.",
+   "bytes": 43200
+  },
+  {
+   "line": 12,
+   "file": "day28-line012.mp3",
+   "sentence_id": "b2-day28-s12",
+   "en": "I wish I had learned a musical instrument when my mind was young and quick.",
+   "bytes": 46848
+  },
+  {
+   "line": 13,
+   "file": "day28-line013.mp3",
+   "sentence_id": "b2-day28-s13",
+   "en": "If only people understood earlier that health is the only wealth that truly matters.",
+   "bytes": 55680
+  },
+  {
+   "line": 14,
+   "file": "day28-line014.mp3",
+   "sentence_id": "b2-day28-s14",
+   "en": "Were he to admit his mistake, half the damage could still be repaired.",
+   "bytes": 43392
+  },
+  {
+   "line": 15,
+   "file": "day28-line015.mp3",
+   "sentence_id": "b2-day28-s15",
+   "en": "It is better to regret what you tried than to spend a lifetime wondering what might have happened.",
+   "bytes": 54336
+  }
+ ]
+}
