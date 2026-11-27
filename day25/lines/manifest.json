@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 25,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day25-line001.mp3",
+   "sentence_id": "b2-day25-s01",
+   "en": "What fascinates scientists about Mars is the evidence that rivers once flowed across its surface.",
+   "bytes": 63168
+  },
+  {
+   "line": 2,
+   "file": "day25-line002.mp3",
+   "sentence_id": "b2-day25-s02",
+   "en": "It is believed that the universe contains more stars than there are grains of sand on all our beaches.",
+   "bytes": 61440
+  },
+  {
+   "line": 3,
+   "file": "day25-line003.mp3",
+   "sentence_id": "b2-day25-s03",
+   "en": "Not until the telescope was invented did we understand that Earth is not the center of everything.",
+   "bytes": 59520
+  },
+  {
+   "line": 4,
+   "file": "day25-line004.mp3",
+   "sentence_id": "b2-day25-s04",
+   "en": "However far a spacecraft may travel, it still carries a little piece of human curiosity with it.",
+   "bytes": 60480
+  },
+  {
+   "line": 5,
+   "file": "day25-line005.mp3",
+   "sentence_id": "b2-day25-s05",
+   "en": "Were we to find even the simplest form of life on another planet, it would change how we see ourselves forever.",
+   "bytes": 57600
+  },
+  {
+   "line": 6,
+   "file": "day25-line006.mp3",
+   "sentence_id": "b2-day25-s06",
+   "en": "The astronaut is said to have cried when she saw the Earth from space for the first time.",
+   "bytes": 51072
+  },
+  {
+   "line": 7,
+   "file": "day25-line007.mp3",
+   "sentence_id": "b2-day25-s07",
+   "en": "It is not the distance that makes space travel difficult, but the cost of leaving Earth's gravity.",
+   "bytes": 55296
+  },
+  {
+   "line": 8,
+   "file": "day25-line008.mp3",
+   "sentence_id": "b2-day25-s08",
+   "en": "Little did the ancient astronomers know that the strange lights they watched were entire galaxies.",
+   "bytes": 58944
+  },
+  {
+   "line": 9,
+   "file": "day25-line009.mp3",
+   "sentence_id": "b2-day25-s09",
+   "en": "What a night in the desert teaches you is that the sky is not a ceiling, but a window.",
+   "bytes": 50496
+  },
+  {
+   "line": 10,
+   "file": "day25-line010.mp3",
+   "sentence_id": "b2-day25-s10",
+   "en": "Rarely do we look up and realize that the light reaching our eyes left its star years ago.",
+   "bytes": 58368
+  },
+  {
+   "line": 11,
+   "file": "day25-line011.mp3",
+   "sentence_id": "b2-day25-s11",
+   "en": "What keeps scientists searching is the question of whether we are truly alone in the universe.",
+   "bytes": 49536
+  },
+  {
+   "line": 12,
+   "file": "day25-line012.mp3",
+   "sentence_id": "b2-day25-s12",
+   "en": "It is the moon, not the sun, that controls the tides that shape our coastlines.",
+   "bytes": 46848
+  },
+  {
+   "line": 13,
+   "file": "day25-line013.mp3",
+   "sentence_id": "b2-day25-s13",
+   "en": "So vast is the universe that even the nearest star system lies beyond a lifetime of travel.",
+   "bytes": 55488
+  },
+  {
+   "line": 14,
+   "file": "day25-line014.mp3",
+   "sentence_id": "b2-day25-s14",
+   "en": "Were an asteroid to approach Earth, the world's space agencies would finally have to work as one team.",
+   "bytes": 56832
+  },
+  {
+   "line": 15,
+   "file": "day25-line015.mp3",
+   "sentence_id": "b2-day25-s15",
+   "en": "It was only after the first moon landing that people understood how small and fragile our planet is.",
+   "bytes": 61440
+  }
+ ]
+}
