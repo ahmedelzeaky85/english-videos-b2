@@ -1,0 +1,758 @@
+{
+ "level": "B2",
+ "day": 30,
+ "count": 125,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day30-line001.mp3",
+   "en": "Hi Omar! I cannot believe this is our last day of level B2.",
+   "bytes": 40365
+  },
+  {
+   "line": 2,
+   "file": "day30-line002.mp3",
+   "en": "I know. It feels like we only started yesterday.",
+   "bytes": 33069
+  },
+  {
+   "line": 3,
+   "file": "day30-line003.mp3",
+   "en": "Do you remember our first discussion about opinions?",
+   "bytes": 36141
+  },
+  {
+   "line": 4,
+   "file": "day30-line004.mp3",
+   "en": "I would rather hear an honest disagreement than a polite agreement that hides the truth.",
+   "bytes": 56109
+  },
+  {
+   "line": 5,
+   "file": "day30-line005.mp3",
+   "en": "However strong his opinion may be, he should still listen to those who disagree with him.",
+   "bytes": 49005
+  },
+  {
+   "line": 6,
+   "file": "day30-line006.mp3",
+   "en": "What really matters is not who wins the argument, but whether we get closer to the truth.",
+   "bytes": 56685
+  },
+  {
+   "line": 7,
+   "file": "day30-line007.mp3",
+   "en": "Not only did she defend her position calmly, but she also managed to change several minds in the room.",
+   "bytes": 67629
+  },
+  {
+   "line": 8,
+   "file": "day30-line008.mp3",
+   "en": "Speaking of strong opinions, do you still argue with your uncle about success and luck?",
+   "bytes": 54765
+  },
+  {
+   "line": 9,
+   "file": "day30-line009.mp3",
+   "en": "Success is rarely the result of luck; more often, it is the reward for refusing to give up.",
+   "bytes": 61869
+  },
+  {
+   "line": 10,
+   "file": "day30-line010.mp3",
+   "en": "It was not talent that made her successful, but years of disciplined practice.",
+   "bytes": 48045
+  },
+  {
+   "line": 11,
+   "file": "day30-line011.mp3",
+   "en": "Failing once does not make you a failure, just as succeeding once does not make you a master.",
+   "bytes": 62829
+  },
+  {
+   "line": 12,
+   "file": "day30-line012.mp3",
+   "en": "My uncle would say the city makes people fight harder for success.",
+   "bytes": 44205
+  },
+  {
+   "line": 13,
+   "file": "day30-line013.mp3",
+   "en": "Living downtown may be convenient, but it comes at the cost of peace and quiet.",
+   "bytes": 52269
+  },
+  {
+   "line": 14,
+   "file": "day30-line014.mp3",
+   "en": "What I miss most about village life is the silence you can never find in a crowded city.",
+   "bytes": 51309
+  },
+  {
+   "line": 15,
+   "file": "day30-line015.mp3",
+   "en": "If the government were to invest more in public transport, traffic would not be such a daily struggle.",
+   "bytes": 55725
+  },
+  {
+   "line": 16,
+   "file": "day30-line016.mp3",
+   "en": "Under no circumstances should historic buildings be demolished to make room for parking lots.",
+   "bytes": 50349
+  },
+  {
+   "line": 17,
+   "file": "day30-line017.mp3",
+   "en": "Did you read about the new study on the human brain?",
+   "bytes": 31341
+  },
+  {
+   "line": 18,
+   "file": "day30-line018.mp3",
+   "en": "The discovery is said to have changed the way scientists understand the human brain.",
+   "bytes": 47469
+  },
+  {
+   "line": 19,
+   "file": "day30-line019.mp3",
+   "en": "It is widely believed that water once flowed on the surface of Mars.",
+   "bytes": 44205
+  },
+  {
+   "line": 20,
+   "file": "day30-line020.mp3",
+   "en": "Little did the scientists expect that their small project would lead to a Nobel Prize.",
+   "bytes": 56685
+  },
+  {
+   "line": 21,
+   "file": "day30-line021.mp3",
+   "en": "If it were not for vaccines, millions of lives would have been lost to diseases we now rarely see.",
+   "bytes": 65709
+  },
+  {
+   "line": 22,
+   "file": "day30-line022.mp3",
+   "en": "You always loved science. I was the one painting in the corner.",
+   "bytes": 39789
+  },
+  {
+   "line": 23,
+   "file": "day30-line023.mp3",
+   "en": "What draws people to art is not its price, but the feelings it awakens in them.",
+   "bytes": 51501
+  },
+  {
+   "line": 24,
+   "file": "day30-line024.mp3",
+   "en": "However difficult the first attempts may seem, every artist was once a beginner.",
+   "bytes": 54189
+  },
+  {
+   "line": 25,
+   "file": "day30-line025.mp3",
+   "en": "Not only does music express what words cannot, but it also connects people across cultures.",
+   "bytes": 60525
+  },
+  {
+   "line": 26,
+   "file": "day30-line026.mp3",
+   "en": "What matters in art is not perfection, but honesty; a painting must say something true.",
+   "bytes": 63021
+  },
+  {
+   "line": 27,
+   "file": "day30-line027.mp3",
+   "en": "Maybe your art could become a business one day.",
+   "bytes": 25581
+  },
+  {
+   "line": 28,
+   "file": "day30-line028.mp3",
+   "en": "What separates a successful startup from a failing one is rarely the idea itself, but the way it is carried out.",
+   "bytes": 74925
+  },
+  {
+   "line": 29,
+   "file": "day30-line029.mp3",
+   "en": "What investors really look for is not a perfect plan, but a team they can trust.",
+   "bytes": 52269
+  },
+  {
+   "line": 30,
+   "file": "day30-line030.mp3",
+   "en": "However brilliant your product is, nobody will buy it if they have never heard of it.",
+   "bytes": 48621
+  },
+  {
+   "line": 31,
+   "file": "day30-line031.mp3",
+   "en": "It was her ability to adapt, not her original idea, that saved the business during the crisis.",
+   "bytes": 59181
+  },
+  {
+   "line": 32,
+   "file": "day30-line032.mp3",
+   "en": "A business needs customers, and customers come from media and advertising.",
+   "bytes": 49581
+  },
+  {
+   "line": 33,
+   "file": "day30-line033.mp3",
+   "en": "It is no exaggeration to say that advertising shapes what we want without us noticing.",
+   "bytes": 58221
+  },
+  {
+   "line": 34,
+   "file": "day30-line034.mp3",
+   "en": "What makes an advertisement memorable is rarely its budget, but the story it tells.",
+   "bytes": 51501
+  },
+  {
+   "line": 35,
+   "file": "day30-line035.mp3",
+   "en": "Not only do advertisers sell products, but they also sell dreams and lifestyles.",
+   "bytes": 54765
+  },
+  {
+   "line": 36,
+   "file": "day30-line036.mp3",
+   "en": "What we should teach children is not to avoid media, but to question it.",
+   "bytes": 40365
+  },
+  {
+   "line": 37,
+   "file": "day30-line037.mp3",
+   "en": "Advertising has rules too. That is where law comes in.",
+   "bytes": 38829
+  },
+  {
+   "line": 38,
+   "file": "day30-line038.mp3",
+   "en": "It is a basic principle that everyone is innocent until proven guilty.",
+   "bytes": 48429
+  },
+  {
+   "line": 39,
+   "file": "day30-line039.mp3",
+   "en": "However strict the law may be, it means little if it is not applied equally to everyone.",
+   "bytes": 55725
+  },
+  {
+   "line": 40,
+   "file": "day30-line040.mp3",
+   "en": "What the victim wanted was not revenge, but simply to be heard.",
+   "bytes": 41709
+  },
+  {
+   "line": 41,
+   "file": "day30-line041.mp3",
+   "en": "What makes a society just is not the number of its laws, but the fairness with which they are applied.",
+   "bytes": 62445
+  },
+  {
+   "line": 42,
+   "file": "day30-line042.mp3",
+   "en": "Law is about behavior, and so is psychology. Did you finish that book?",
+   "bytes": 46701
+  },
+  {
+   "line": 43,
+   "file": "day30-line043.mp3",
+   "en": "The more we understand our own fears, the less power they have over us.",
+   "bytes": 44781
+  },
+  {
+   "line": 44,
+   "file": "day30-line044.mp3",
+   "en": "However confident someone appears, they may be fighting battles nobody knows about.",
+   "bytes": 50925
+  },
+  {
+   "line": 45,
+   "file": "day30-line045.mp3",
+   "en": "It is said that we make most of our decisions emotionally and then justify them with logic.",
+   "bytes": 55341
+  },
+  {
+   "line": 46,
+   "file": "day30-line046.mp3",
+   "en": "Rarely do we realize how much our childhood shapes the adults we become.",
+   "bytes": 47469
+  },
+  {
+   "line": 47,
+   "file": "day30-line047.mp3",
+   "en": "You know what builds confidence too? Sports.",
+   "bytes": 26925
+  },
+  {
+   "line": 48,
+   "file": "day30-line048.mp3",
+   "en": "What separates champions from ordinary players is not talent alone, but the will to train when nobody is watching.",
+   "bytes": 75501
+  },
+  {
+   "line": 49,
+   "file": "day30-line049.mp3",
+   "en": "Not until the final minute did the team score the goal that made them champions.",
+   "bytes": 48429
+  },
+  {
+   "line": 50,
+   "file": "day30-line050.mp3",
+   "en": "What the fans remember is not the score, but the moment the whole stadium stood up.",
+   "bytes": 58605
+  },
+  {
+   "line": 51,
+   "file": "day30-line051.mp3",
+   "en": "Losing a final is painful, but it teaches a team lessons that victory never could.",
+   "bytes": 56109
+  },
+  {
+   "line": 52,
+   "file": "day30-line052.mp3",
+   "en": "The whole country watched that final together, like one family.",
+   "bytes": 39981
+  },
+  {
+   "line": 53,
+   "file": "day30-line053.mp3",
+   "en": "Not until every country works together will we solve problems that cross all borders.",
+   "bytes": 58989
+  },
+  {
+   "line": 54,
+   "file": "day30-line054.mp3",
+   "en": "What makes climate change so dangerous is that its worst effects will be felt by those who caused it least.",
+   "bytes": 63789
+  },
+  {
+   "line": 55,
+   "file": "day30-line055.mp3",
+   "en": "It is often the poorest communities that pay the highest price for decisions made far away.",
+   "bytes": 57261
+  },
+  {
+   "line": 56,
+   "file": "day30-line056.mp3",
+   "en": "Rarely has the world needed cooperation as urgently as it does today.",
+   "bytes": 44589
+  },
+  {
+   "line": 57,
+   "file": "day30-line057.mp3",
+   "en": "Cooperation built this country too. Think of our history.",
+   "bytes": 34029
+  },
+  {
+   "line": 58,
+   "file": "day30-line058.mp3",
+   "en": "What amazes visitors is not only the size of the temples, but the precision with which they were built.",
+   "bytes": 66861
+  },
+  {
+   "line": 59,
+   "file": "day30-line059.mp3",
+   "en": "It is believed that the pyramids were built by paid workers rather than slaves.",
+   "bytes": 48621
+  },
+  {
+   "line": 60,
+   "file": "day30-line060.mp3",
+   "en": "It was the discovery of the Rosetta Stone that opened the door to understanding hieroglyphs.",
+   "bytes": 53421
+  },
+  {
+   "line": 61,
+   "file": "day30-line061.mp3",
+   "en": "Were these monuments to be destroyed, no money in the world could ever rebuild them.",
+   "bytes": 50541
+  },
+  {
+   "line": 62,
+   "file": "day30-line062.mp3",
+   "en": "And today, we build new things on top of that history.",
+   "bytes": 35565
+  },
+  {
+   "line": 63,
+   "file": "day30-line063.mp3",
+   "en": "It is often a simple frustration that leads to the most useful inventions.",
+   "bytes": 48045
+  },
+  {
+   "line": 64,
+   "file": "day30-line064.mp3",
+   "en": "Not only did the printing press spread knowledge, but it also changed who was allowed to have it.",
+   "bytes": 58221
+  },
+  {
+   "line": 65,
+   "file": "day30-line065.mp3",
+   "en": "However advanced an invention may be, it is useless unless people can actually afford it.",
+   "bytes": 59181
+  },
+  {
+   "line": 66,
+   "file": "day30-line066.mp3",
+   "en": "What drives most inventors is not money, but the joy of solving a problem nobody else could solve.",
+   "bytes": 64365
+  },
+  {
+   "line": 67,
+   "file": "day30-line067.mp3",
+   "en": "All these inventions are supposed to bring people together, but do they?",
+   "bytes": 41901
+  },
+  {
+   "line": 68,
+   "file": "day30-line068.mp3",
+   "en": "What modern life has taken from us is the time to simply sit with one another and talk.",
+   "bytes": 54189
+  },
+  {
+   "line": 69,
+   "file": "day30-line069.mp3",
+   "en": "What holds a family together is not the absence of conflict, but the willingness to forgive.",
+   "bytes": 55725
+  },
+  {
+   "line": 70,
+   "file": "day30-line070.mp3",
+   "en": "However busy life becomes, we should never be too busy for the people we love.",
+   "bytes": 50541
+  },
+  {
+   "line": 71,
+   "file": "day30-line071.mp3",
+   "en": "Being close to people is a kind of safety too, I think.",
+   "bytes": 33261
+  },
+  {
+   "line": 72,
+   "file": "day30-line072.mp3",
+   "en": "It is impossible to remove all risk from life; the best we can do is to manage it wisely.",
+   "bytes": 64365
+  },
+  {
+   "line": 73,
+   "file": "day30-line073.mp3",
+   "en": "It is often the risks we ignore, not the ones we fear, that end up hurting us.",
+   "bytes": 50541
+  },
+  {
+   "line": 74,
+   "file": "day30-line074.mp3",
+   "en": "Rarely does fear protect us as well as preparation does.",
+   "bytes": 41325
+  },
+  {
+   "line": 75,
+   "file": "day30-line075.mp3",
+   "en": "Were everyone to follow the safety instructions, most accidents would never happen.",
+   "bytes": 49005
+  },
+  {
+   "line": 76,
+   "file": "day30-line076.mp3",
+   "en": "Speaking of safety, my laptop broke again. Time for another complaint letter.",
+   "bytes": 48045
+  },
+  {
+   "line": 77,
+   "file": "day30-line077.mp3",
+   "en": "I am writing to express my dissatisfaction with the service I received at your branch last week.",
+   "bytes": 56301
+  },
+  {
+   "line": 78,
+   "file": "day30-line078.mp3",
+   "en": "What I find particularly disappointing is that nobody has replied to my previous three emails.",
+   "bytes": 61869
+  },
+  {
+   "line": 79,
+   "file": "day30-line079.mp3",
+   "en": "However polite a complaint letter may be, it should still state clearly what action is expected.",
+   "bytes": 55149
+  },
+  {
+   "line": 80,
+   "file": "day30-line080.mp3",
+   "en": "It was not until I threatened to contact consumer protection that the company finally responded.",
+   "bytes": 57261
+  },
+  {
+   "line": 81,
+   "file": "day30-line081.mp3",
+   "en": "And after the letter comes the negotiation.",
+   "bytes": 28461
+  },
+  {
+   "line": 82,
+   "file": "day30-line082.mp3",
+   "en": "What every skilled negotiator knows is that listening is more powerful than speaking.",
+   "bytes": 53421
+  },
+  {
+   "line": 83,
+   "file": "day30-line083.mp3",
+   "en": "Not until both sides feel they have gained something is a deal truly successful.",
+   "bytes": 54189
+  },
+  {
+   "line": 84,
+   "file": "day30-line084.mp3",
+   "en": "However tempting it may be to win every point, a good negotiator knows when to compromise.",
+   "bytes": 60141
+  },
+  {
+   "line": 85,
+   "file": "day30-line085.mp3",
+   "en": "It is rarely the loudest voice in the room that wins the negotiation.",
+   "bytes": 44205
+  },
+  {
+   "line": 86,
+   "file": "day30-line086.mp3",
+   "en": "After all this city noise, I dream of the desert again.",
+   "bytes": 36909
+  },
+  {
+   "line": 87,
+   "file": "day30-line087.mp3",
+   "en": "What makes the desert so remarkable is the variety of life that survives in such harsh conditions.",
+   "bytes": 58605
+  },
+  {
+   "line": 88,
+   "file": "day30-line088.mp3",
+   "en": "Not until the reserve was established did the number of gazelles begin to recover.",
+   "bytes": 46125
+  },
+  {
+   "line": 89,
+   "file": "day30-line089.mp3",
+   "en": "It is not the strongest species that survives, but the one most able to adapt.",
+   "bytes": 51309
+  },
+  {
+   "line": 90,
+   "file": "day30-line090.mp3",
+   "en": "What conservation needs most is not more money, but more people who genuinely care.",
+   "bytes": 53421
+  },
+  {
+   "line": 91,
+   "file": "day30-line091.mp3",
+   "en": "Protecting nature also costs money, which brings us to the economy.",
+   "bytes": 42861
+  },
+  {
+   "line": 92,
+   "file": "day30-line092.mp3",
+   "en": "What worries economists is not the debt itself, but the speed at which it is growing.",
+   "bytes": 52845
+  },
+  {
+   "line": 93,
+   "file": "day30-line093.mp3",
+   "en": "The price of bread is said to affect political stability more than any election speech.",
+   "bytes": 49389
+  },
+  {
+   "line": 94,
+   "file": "day30-line094.mp3",
+   "en": "It is not wealth that makes a country stable, but the fairness with which that wealth is shared.",
+   "bytes": 55725
+  },
+  {
+   "line": 95,
+   "file": "day30-line095.mp3",
+   "en": "Rarely do economists agree on anything, yet they all warn against ignoring inflation.",
+   "bytes": 54381
+  },
+  {
+   "line": 96,
+   "file": "day30-line096.mp3",
+   "en": "Money questions are hard, but moral questions are harder.",
+   "bytes": 41901
+  },
+  {
+   "line": 97,
+   "file": "day30-line097.mp3",
+   "en": "What makes a dilemma a dilemma is that every choice carries a cost someone must pay.",
+   "bytes": 56685
+  },
+  {
+   "line": 98,
+   "file": "day30-line098.mp3",
+   "en": "It is not always easy to know where honesty ends and cruelty begins.",
+   "bytes": 48045
+  },
+  {
+   "line": 99,
+   "file": "day30-line099.mp3",
+   "en": "It is said that character is what you do when nobody is watching.",
+   "bytes": 42861
+  },
+  {
+   "line": 100,
+   "file": "day30-line100.mp3",
+   "en": "Rarely is the easiest choice also the right one.",
+   "bytes": 35949
+  },
+  {
+   "line": 101,
+   "file": "day30-line101.mp3",
+   "en": "When life feels heavy, I look up at the stars.",
+   "bytes": 37485
+  },
+  {
+   "line": 102,
+   "file": "day30-line102.mp3",
+   "en": "It is believed that the universe contains more stars than there are grains of sand on all our beaches.",
+   "bytes": 72621
+  },
+  {
+   "line": 103,
+   "file": "day30-line103.mp3",
+   "en": "Not until the telescope was invented did we understand that Earth is not the center of everything.",
+   "bytes": 59565
+  },
+  {
+   "line": 104,
+   "file": "day30-line104.mp3",
+   "en": "What a night in the desert teaches you is that the sky is not a ceiling, but a window.",
+   "bytes": 56685
+  },
+  {
+   "line": 105,
+   "file": "day30-line105.mp3",
+   "en": "And look how we are talking about all of this, in a new language.",
+   "bytes": 39789
+  },
+  {
+   "line": 106,
+   "file": "day30-line106.mp3",
+   "en": "What makes language such a powerful tool is that it can carry an idea from one mind to another.",
+   "bytes": 58989
+  },
+  {
+   "line": 107,
+   "file": "day30-line107.mp3",
+   "en": "Not until a language loses its last speaker does it truly die.",
+   "bytes": 45741
+  },
+  {
+   "line": 108,
+   "file": "day30-line108.mp3",
+   "en": "It is not the words themselves, but the tone and the silence between them, that carry the real meaning.",
+   "bytes": 73581
+  },
+  {
+   "line": 109,
+   "file": "day30-line109.mp3",
+   "en": "What children teach us about language is that rules are learned by listening, not by studying.",
+   "bytes": 58605
+  },
+  {
+   "line": 110,
+   "file": "day30-line110.mp3",
+   "en": "Learning English changed us, did it not?",
+   "bytes": 29805
+  },
+  {
+   "line": 111,
+   "file": "day30-line111.mp3",
+   "en": "However painful a change may be at first, it often opens doors we never knew existed.",
+   "bytes": 54381
+  },
+  {
+   "line": 112,
+   "file": "day30-line112.mp3",
+   "en": "It is not the change itself that frightens people, but the fear of losing what they know.",
+   "bytes": 52461
+  },
+  {
+   "line": 113,
+   "file": "day30-line113.mp3",
+   "en": "What survivors of any crisis share is not strength, but the willingness to adapt.",
+   "bytes": 58605
+  },
+  {
+   "line": 114,
+   "file": "day30-line114.mp3",
+   "en": "Rarely does life ask our permission before it changes; it simply changes, and we must follow.",
+   "bytes": 63981
+  },
+  {
+   "line": 115,
+   "file": "day30-line115.mp3",
+   "en": "Any regrets about the journey, Omar?",
+   "bytes": 25965
+  },
+  {
+   "line": 116,
+   "file": "day30-line116.mp3",
+   "en": "What most people regret is not the mistakes they made, but the chances they never took.",
+   "bytes": 60909
+  },
+  {
+   "line": 117,
+   "file": "day30-line117.mp3",
+   "en": "If only we had known how quickly time passes, we would have spent more evenings together.",
+   "bytes": 57645
+  },
+  {
+   "line": 118,
+   "file": "day30-line118.mp3",
+   "en": "I would rather fail at something I love than succeed at something that means nothing to me.",
+   "bytes": 56109
+  },
+  {
+   "line": 119,
+   "file": "day30-line119.mp3",
+   "en": "Rarely do we get second chances, so it is wiser to treat the first one with care.",
+   "bytes": 54765
+  },
+  {
+   "line": 120,
+   "file": "day30-line120.mp3",
+   "en": "So, what is next for us after B2?",
+   "bytes": 31725
+  },
+  {
+   "line": 121,
+   "file": "day30-line121.mp3",
+   "en": "Level C1 is waiting for us. Are you ready?",
+   "bytes": 32109
+  },
+  {
+   "line": 122,
+   "file": "day30-line122.mp3",
+   "en": "Ready. We argued, we learned, and we never gave up.",
+   "bytes": 63021
+  },
+  {
+   "line": 123,
+   "file": "day30-line123.mp3",
+   "en": "And this time, no complaining about a single lesson.",
+   "bytes": 35949
+  },
+  {
+   "line": 124,
+   "file": "day30-line124.mp3",
+   "en": "I do not promise that, but I promise to finish. See you in C1, Sara!",
+   "bytes": 51309
+  },
+  {
+   "line": 125,
+   "file": "day30-line125.mp3",
+   "en": "See you there, Omar. It was a wonderful journey.",
+   "bytes": 34221
+  }
+ ]
+}
