@@ -1,0 +1,113 @@
+{
+ "level": "b2",
+ "day": 27,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day27-line001.mp3",
+   "sentence_id": "b2-day27-s01",
+   "en": "What history teaches us is that those who refuse to change are the first to be left behind.",
+   "bytes": 53952
+  },
+  {
+   "line": 2,
+   "file": "day27-line002.mp3",
+   "sentence_id": "b2-day27-s02",
+   "en": "It is often said that the only constant in life is change itself.",
+   "bytes": 43008
+  },
+  {
+   "line": 3,
+   "file": "day27-line003.mp3",
+   "sentence_id": "b2-day27-s03",
+   "en": "Not until the factory closed did the town realize how much it had depended on it.",
+   "bytes": 51264
+  },
+  {
+   "line": 4,
+   "file": "day27-line004.mp3",
+   "sentence_id": "b2-day27-s04",
+   "en": "However painful a change may be at first, it often opens doors we never knew existed.",
+   "bytes": 59904
+  },
+  {
+   "line": 5,
+   "file": "day27-line005.mp3",
+   "sentence_id": "b2-day27-s05",
+   "en": "Were the old market to disappear, the neighborhood would lose more than shops; it would lose its memory.",
+   "bytes": 55296
+  },
+  {
+   "line": 6,
+   "file": "day27-line006.mp3",
+   "sentence_id": "b2-day27-s06",
+   "en": "My grandfather is said to have resisted smartphones for years, and now he video-calls us every day.",
+   "bytes": 59712
+  },
+  {
+   "line": 7,
+   "file": "day27-line007.mp3",
+   "sentence_id": "b2-day27-s07",
+   "en": "It is not the change itself that frightens people, but the fear of losing what they know.",
+   "bytes": 46848
+  },
+  {
+   "line": 8,
+   "file": "day27-line008.mp3",
+   "sentence_id": "b2-day27-s08",
+   "en": "Little by little, the village adapted, and what was once strange became part of daily life.",
+   "bytes": 58176
+  },
+  {
+   "line": 9,
+   "file": "day27-line009.mp3",
+   "sentence_id": "b2-day27-s09",
+   "en": "What survivors of any crisis share is not strength, but the willingness to adapt.",
+   "bytes": 53184
+  },
+  {
+   "line": 10,
+   "file": "day27-line010.mp3",
+   "sentence_id": "b2-day27-s10",
+   "en": "Rarely does life ask our permission before it changes; it simply changes, and we must follow.",
+   "bytes": 59712
+  },
+  {
+   "line": 11,
+   "file": "day27-line011.mp3",
+   "sentence_id": "b2-day27-s11",
+   "en": "What the pandemic proved was that even the oldest institutions can change overnight when they must.",
+   "bytes": 63744
+  },
+  {
+   "line": 12,
+   "file": "day27-line012.mp3",
+   "sentence_id": "b2-day27-s12",
+   "en": "It is not the fastest company that survives, but the one most willing to question its own success.",
+   "bytes": 59904
+  },
+  {
+   "line": 13,
+   "file": "day27-line013.mp3",
+   "sentence_id": "b2-day27-s13",
+   "en": "So quickly is technology changing that the job my daughter will do has not even been invented yet.",
+   "bytes": 59520
+  },
+  {
+   "line": 14,
+   "file": "day27-line014.mp3",
+   "sentence_id": "b2-day27-s14",
+   "en": "Were we to resist every new idea, we would still be living as people did a thousand years ago.",
+   "bytes": 57408
+  },
+  {
+   "line": 15,
+   "file": "day27-line015.mp3",
+   "sentence_id": "b2-day27-s15",
+   "en": "It is said that the best time to plant a tree was twenty years ago, and the second best time is now.",
+   "bytes": 58176
+  }
+ ]
+}
