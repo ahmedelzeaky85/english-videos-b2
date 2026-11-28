@@ -1,7 +1,7 @@
 {
  "level": "b2",
  "day": 7,
- "count": 10,
+ "count": 15,
  "format": "mp3 mono 24kHz 64kbps",
  "lines": [
   {
@@ -9,70 +9,105 @@
    "file": "day07-line001.mp3",
    "sentence_id": "b2-day07-s01",
    "en": "What separates a successful startup from a failing one is rarely the idea itself, but the way it is carried out.",
-   "bytes": 63360
+   "bytes": 56640
   },
   {
    "line": 2,
    "file": "day07-line002.mp3",
    "sentence_id": "b2-day07-s02",
    "en": "Had the founders listened to their early customers, the company might have survived its first year.",
-   "bytes": 53760
+   "bytes": 43968
   },
   {
    "line": 3,
    "file": "day07-line003.mp3",
    "sentence_id": "b2-day07-s03",
    "en": "It is believed that most new businesses fail within three years, mainly because they run out of cash.",
-   "bytes": 60672
+   "bytes": 52032
   },
   {
    "line": 4,
    "file": "day07-line004.mp3",
    "sentence_id": "b2-day07-s04",
    "en": "Not only must an entrepreneur take risks, but they must also know which risks are worth taking.",
-   "bytes": 53568
+   "bytes": 46464
   },
   {
    "line": 5,
    "file": "day07-line005.mp3",
    "sentence_id": "b2-day07-s05",
    "en": "However brilliant your product is, nobody will buy it if they have never heard of it.",
-   "bytes": 44928
+   "bytes": 37632
   },
   {
    "line": 6,
    "file": "day07-line006.mp3",
    "sentence_id": "b2-day07-s06",
    "en": "The market is said to be changing so fast that last year's strategy may already be useless.",
-   "bytes": 58560
+   "bytes": 46464
   },
   {
    "line": 7,
    "file": "day07-line007.mp3",
    "sentence_id": "b2-day07-s07",
    "en": "What investors really look for is not a perfect plan, but a team they can trust.",
-   "bytes": 52416
+   "bytes": 43200
   },
   {
    "line": 8,
    "file": "day07-line008.mp3",
    "sentence_id": "b2-day07-s08",
    "en": "Were the company to lower its prices now, it would attract customers but lose their respect.",
-   "bytes": 57600
+   "bytes": 47808
   },
   {
    "line": 9,
    "file": "day07-line009.mp3",
    "sentence_id": "b2-day07-s09",
    "en": "Little did he know that his small online shop would one day become a national brand.",
-   "bytes": 51840
+   "bytes": 43008
   },
   {
    "line": 10,
    "file": "day07-line010.mp3",
    "sentence_id": "b2-day07-s10",
    "en": "It was her ability to adapt, not her original idea, that saved the business during the crisis.",
-   "bytes": 63360
+   "bytes": 50112
+  },
+  {
+   "line": 11,
+   "file": "day07-line011.mp3",
+   "sentence_id": "b2-day07-s11",
+   "en": "What an investor finds most worrying is not a small loss, but a founder who refuses to admit mistakes.",
+   "bytes": 58944
+  },
+  {
+   "line": 12,
+   "file": "day07-line012.mp3",
+   "sentence_id": "b2-day07-s12",
+   "en": "Had the firm paid as much attention to its staff as to its profits, it might still be thriving.",
+   "bytes": 48768
+  },
+  {
+   "line": 13,
+   "file": "day07-line013.mp3",
+   "sentence_id": "b2-day07-s13",
+   "en": "It is far cheaper to keep an existing customer happy than to win a new one.",
+   "bytes": 33408
+  },
+  {
+   "line": 14,
+   "file": "day07-line014.mp3",
+   "sentence_id": "b2-day07-s14",
+   "en": "Not until the second year did the business make its first real profit.",
+   "bytes": 35328
+  },
+  {
+   "line": 15,
+   "file": "day07-line015.mp3",
+   "sentence_id": "b2-day07-s15",
+   "en": "However tempting a quick deal may be, a good reputation takes years to build and one day to lose.",
+   "bytes": 57984
   }
  ]
 }
