@@ -1,7 +1,7 @@
 {
  "level": "b2",
  "day": 2,
- "count": 10,
+ "count": 15,
  "format": "mp3 mono 24kHz 64kbps",
  "lines": [
   {
@@ -9,70 +9,105 @@
    "file": "day02-line001.mp3",
    "sentence_id": "b2-day02-s01",
    "en": "It was not talent that made her successful, but years of disciplined practice.",
-   "bytes": 47040
+   "bytes": 37440
   },
   {
    "line": 2,
    "file": "day02-line002.mp3",
    "sentence_id": "b2-day02-s02",
    "en": "Had he taken the warning seriously, the project would not have failed so badly.",
-   "bytes": 46464
+   "bytes": 38592
   },
   {
    "line": 3,
    "file": "day02-line003.mp3",
    "sentence_id": "b2-day02-s03",
    "en": "Success is rarely the result of luck; more often, it is the reward for refusing to give up.",
-   "bytes": 59136
+   "bytes": 52800
   },
   {
    "line": 4,
    "file": "day02-line004.mp3",
    "sentence_id": "b2-day02-s04",
    "en": "She is said to be the youngest manager the company has ever had.",
-   "bytes": 41280
+   "bytes": 32256
   },
   {
    "line": 5,
    "file": "day02-line005.mp3",
    "sentence_id": "b2-day02-s05",
    "en": "However hard you work, there will always be someone who doubts you, so stop trying to please everyone.",
-   "bytes": 59520
+   "bytes": 51648
   },
   {
    "line": 6,
    "file": "day02-line006.mp3",
    "sentence_id": "b2-day02-s06",
    "en": "What surprised me most was that he treated every failure as a lesson rather than a defeat.",
-   "bytes": 59136
+   "bytes": 46848
   },
   {
    "line": 7,
    "file": "day02-line007.mp3",
    "sentence_id": "b2-day02-s07",
    "en": "If only I had listened to my teacher's advice, I would have avoided so many mistakes.",
-   "bytes": 50688
+   "bytes": 45120
   },
   {
    "line": 8,
    "file": "day02-line008.mp3",
    "sentence_id": "b2-day02-s08",
    "en": "Not until he lost everything did he understand what really mattered in life.",
-   "bytes": 45888
+   "bytes": 36864
   },
   {
    "line": 9,
    "file": "day02-line009.mp3",
    "sentence_id": "b2-day02-s09",
    "en": "The team must have been disappointed, because they had trained for months before the tournament was canceled.",
-   "bytes": 56064
+   "bytes": 46848
   },
   {
    "line": 10,
    "file": "day02-line010.mp3",
    "sentence_id": "b2-day02-s10",
    "en": "Failing once does not make you a failure, just as succeeding once does not make you a master.",
-   "bytes": 54528
+   "bytes": 46080
+  },
+  {
+   "line": 11,
+   "file": "day02-line011.mp3",
+   "sentence_id": "b2-day02-s11",
+   "en": "What makes some people recover quickly from failure is their refusal to see it as a verdict on who they are.",
+   "bytes": 48768
+  },
+  {
+   "line": 12,
+   "file": "day02-line012.mp3",
+   "sentence_id": "b2-day02-s12",
+   "en": "Had she given up after the first rejection, she would never have become the author she is today.",
+   "bytes": 50688
+  },
+  {
+   "line": 13,
+   "file": "day02-line013.mp3",
+   "sentence_id": "b2-day02-s13",
+   "en": "It is not the number of times you fall that counts, but the speed with which you get back up.",
+   "bytes": 41472
+  },
+  {
+   "line": 14,
+   "file": "day02-line014.mp3",
+   "sentence_id": "b2-day02-s14",
+   "en": "However impressive his results were, he never forgot how many people had helped him along the way.",
+   "bytes": 49536
+  },
+  {
+   "line": 15,
+   "file": "day02-line015.mp3",
+   "sentence_id": "b2-day02-s15",
+   "en": "Rarely do people admit that their success owes as much to timing as to talent.",
+   "bytes": 41856
   }
  ]
 }
